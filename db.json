@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Wrapsafe",
+      "price":599,
+      "byAge": "3-5 Years",
+      "image": "https://robohash.org/quiaquiarerum.png?size=650x550&set=set1"
+    },
+    {
+      "id": 2,
+      "title": "Bytecard",
+      "price":699,
+      "byAge": "18-36 Months",
+      "image": "https://robohash.org/asperioresquasalias.png?size=650x550&set=set1"
+    },
+    {
+      "id": 3,
+      "title": "Rank",
+      "price":399,
+      "byAge":"3-5 Years",
+      "image": "https://robohash.org/laboreeiusnihil.png?size=650x550&set=set1"
+    },
+    {
+      "id": 4,
+      "title": "Biodex",
+      "price":299,
+      "byAge": "0-18 Months",
+      "image": "https://robohash.org/quodtemporaperferendis.png?size=650x550&set=set1"
+    },
+    {
+      "id": 5,
+      "title": "Zamit",
+      "price":999,
+      "byAge": "0-18 Months",
+      "image": "https://robohash.org/etestesse.png?size=650x550&set=set1"
+    },
+    {
+      "id": 6,
+      "title": "Y-find",
+      "price":799,
+      "byAge":"18-36 Months",
+      "image": "https://robohash.org/nihileaquebeatae.png?size=650x550&set=set1"
+    },
+    {
+      "id": 7,
+      "title": "Flowdesk",
+      "price":599,
+      "byAge": "3-5 Years",
+      "image": "https://robohash.org/ipsammolestiaset.png?size=650x550&set=set1"
+    },
+    {
+      "id": 8,
+      "title": "Keylex",
+      "price":499,
+      "byAge": "0-18 Months",
+      "image": "https://robohash.org/quifacereomnis.png?size=650x550&set=set1"
+    },
+    {
+      "id": 9,
+      "title": "Zamit",
+      "price":899,
+      "byAge": "18-36 Months",
+      "image": "https://robohash.org/molestiasutnon.png?size=650x550&set=set1"
+    },
+    {
+      "id": 10,
+      "title": "Cardguard",
+      "price":999,
+      "byAge": "0-18 Months",
+      "image": "https://robohash.org/voluptascommodieligendi.png?size=650x550&set=set1"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
