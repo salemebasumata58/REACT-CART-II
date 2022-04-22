@@ -3,7 +3,7 @@ export const Navbar =()=>{
     const nav = [
         {title : "Home", to :"/home"},
         {title : "About Us", to :"/about"},
-        {title : "Products", to :"/"},
+        {title : "Products", to :"/products"},
 
     ];
     return (

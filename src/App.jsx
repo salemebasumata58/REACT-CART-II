@@ -9,6 +9,7 @@ import {UserDetails} from "./components/userdetails";
 import {About} from "./components/about";
 // import {PrivateComponent} from "./components/privatecomponent";
 import {Login} from "./components/login";
+import {NotFound}  from "./components/nofound";
 
 function App() {
 
@@ -17,13 +18,15 @@ function App() {
      
       <Navbar/>
        <Routes>
+       
        <Route path="/data/:id" element={<UserDetails/>}></Route>
          <Route path="/home" element={<Home/>}></Route>
          <Route path="/about" element={<About />}></Route>
-         <Route path="/" element={<Userdata/>}></Route>
+         <Route path="/products" element={<Userdata/>}></Route>
          <Route path="/login" element={<Login />}>
         {" "}
       </Route>
+      <Route path="/" element={<NotFound />}></Route>
        </Routes>
     </div>
   )
