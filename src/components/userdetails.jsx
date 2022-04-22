@@ -15,7 +15,10 @@ export const UserDetails =()=>{
         })
     },[]);
     return (
+        
         <div className="div1">
+            <h2>Product Description</h2>
+          
         <img className="image" src={user.image} alt="" />
         <p className="details"> Title: {user.title}</p>
         <p className="details">By Age: {user.byAge}</p>
